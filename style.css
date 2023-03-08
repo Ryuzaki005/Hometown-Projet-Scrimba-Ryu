@@ -1,0 +1,170 @@
+
+.header {
+    background-image: url("images/torshov.jpg");
+    background-size: cover;
+    height: 343px;
+    width: 720px;
+    margin: 0 auto;
+}
+
+.Visit {
+    height: 42px;
+    width: 225px;
+    margin-top: 119px;
+    margin-left: 247px;
+    border-radius: 10px;
+    background-color: #1D3557;
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 37px;
+    position: absolute;    
+}
+
+.Visit-text {
+    margin: 5px 12px;        
+}
+
+.Enjoy {
+    height: 52px;
+    width: 412px;
+    background-color: #457B9D;
+    margin: 172px 154px 119px 154px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.Enjoy-text {
+    height: 39px;
+    width: 355px;
+    margin: 5px 28px;
+    font-family: Arial;
+    font-size: 19px;
+    line-height: 21px;
+    text-align: center; 
+    color: #FFFFFF;  
+}
+
+.titre-activities {
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    color: #1D3557;
+    margin: 0px auto 55px auto;
+    
+}
+
+.activities-1-2-3 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-bottom: 39px 0 0 0 0;
+}
+
+.threeactivities {
+    width: 720px;
+    height: 378px; 
+    background-color: #F1FAEE;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 39px;
+}
+
+.img-activities-1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.img-activities-2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.img-activities-3 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+h3 {
+    font-weight: 700;
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #1D3557;
+    height: 38px;
+    width: 197px;
+}
+.pa {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 400;
+    color: #1D3557;
+    line-height: 18px;
+    height: 55px;
+    width: 198px;
+}
+
+.guide {
+    height: 394px;
+    width: 720px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.carte {
+    height: 294px;
+    width: 400px;
+    margin: 50px 160px;
+    background-color: #A8DADC;
+    border-radius: 10px;
+    box-shadow: 0px 6px 0px #1D3557;
+    display: flex;
+}
+
+.img-per {
+    height: 248px;
+    width: 180px;
+    margin: 23px 5px 23px 13px;
+}
+
+.Y-guide {
+    height: 32px;
+    width: 207px;
+    margin-top: 49px;
+    margin-bottom: 14px;
+    margin-left: 20px;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #1D3557;
+}
+
+.speech {
+    height: 71px;
+    width: 189px;
+    margin-top: 14px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #1D3557;
+    text-align: center;
+}
+
+.name {
+    margin-top: 26px;
+    margin-left: 20px;
+    color: #1D3557;
+    font-weight: 700;
+    font-family: Arial;
+}
